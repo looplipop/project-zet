@@ -19,3 +19,4 @@
 // Refaktor baris kode pada iterasi 19
 // Refaktor baris kode pada iterasi 20
 // Refaktor baris kode pada iterasi 21
+// Refaktor baris kode pada iterasi 22
