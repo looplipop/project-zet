@@ -3,3 +3,4 @@
 // Refaktor baris kode pada iterasi 3
 // Refaktor baris kode pada iterasi 4
 // Refaktor baris kode pada iterasi 5
+// Refaktor baris kode pada iterasi 6
