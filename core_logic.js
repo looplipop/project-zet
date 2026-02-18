@@ -24,3 +24,4 @@
 // Refaktor baris kode pada iterasi 24
 // Refaktor baris kode pada iterasi 25
 // Refaktor baris kode pada iterasi 26
+// Refaktor baris kode pada iterasi 27
