@@ -11,3 +11,4 @@
 // Refaktor baris kode pada iterasi 11
 // Refaktor baris kode pada iterasi 12
 // Refaktor baris kode pada iterasi 13
+// Refaktor baris kode pada iterasi 14
